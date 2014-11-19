@@ -45,6 +45,6 @@
   "xcconfig": {
     "FRAMEWORK_SEARCH_PATHS": "$\"(PODS_ROOT)/couchbase-lite-ios/**\""
   },
-  "requires_arc": false,
+  "requires_arc": true,
   "homepage": "http://mobile.couchbase.com"
 }
